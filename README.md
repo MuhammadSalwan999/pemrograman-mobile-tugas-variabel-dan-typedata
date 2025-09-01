@@ -1,12 +1,12 @@
-# 📱 TUGAS MOBILE - VARIABEL DAN TIPE DATA
+# TUGAS MOBILE - VARIABEL DAN TIPE DATA
 
-## 🧑‍🎓 Identitas Mahasiswa
+##  Identitas Mahasiswa
 - Nama  : **Muhammad Salwan Wahab**  
 - NPM   : **07352311159**
 
 ---
 
-## 📌 Deskripsi Singkat Program
+##  Deskripsi Singkat Program
 Program ini dibuat dengan bahasa **Dart** untuk menghitung gaji seorang karyawan.  
 Data yang diminta oleh program meliputi:
 - Nama karyawan  
@@ -19,7 +19,7 @@ Tujuan dari program ini adalah melatih pemahaman dasar penggunaan variabel dan t
 
 ---
 
-## ⚙️ Instruksi Menjalankan Program
+## Instruksi Menjalankan Program
 1. Jalankan file Dart di terminal/command prompt.  
 2. Masukkan nama karyawan.  
 3. Masukkan jumlah jam kerja selama satu minggu.  
