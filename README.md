@@ -17,11 +17,6 @@ Data yang diminta oleh program meliputi:
 ---
 
 ## Instruksi Menjalankan Program
-1. Jalankan file Dart di terminal/command prompt.  
-2. Masukkan nama karyawan.  
-3. Masukkan jumlah jam kerja selama satu minggu.  
-4. Masukkan upah per jam.  
-5. Tentukan apakah karyawan berstatus tetap dengan mengetik `y` (ya) atau `n` (tidak).  
-6. Program akan menghitung gaji kotor, potongan pajak sesuai status karyawan, dan menampilkan gaji bersih.  
+Untuk menjalankan program ini, pertama jalankan file Dart melalui terminal atau command prompt. Setelah itu, masukkan nama karyawan, diikuti jumlah jam kerja selama satu minggu, serta upah per jam. Langkah berikutnya adalah menentukan apakah karyawan berstatus tetap dengan mengetikkan `y` untuk ya atau `n` untuk tidak. Setelah semua data dimasukkan, program akan secara otomatis menghitung gaji kotor, potongan pajak sesuai status karyawan, lalu menampilkan hasil berupa gaji bersih.
 
 ---
