@@ -7,15 +7,12 @@
 ---
 
 ##  Deskripsi Singkat Program
-Program ini dibuat dengan bahasa **Dart** untuk menghitung gaji seorang karyawan.  
+Program ini dibuat dengan bahasa Dart untuk menghitung gaji seorang karyawan.  
 Data yang diminta oleh program meliputi:
 - Nama karyawan  
 - Jumlah jam kerja dalam seminggu  
 - Upah per jam  
 - Status karyawan tetap atau tidak  
-
-Setelah data dimasukkan, program akan menampilkan gaji kotor, jumlah pajak, dan gaji bersih.  
-Tujuan dari program ini adalah melatih pemahaman dasar penggunaan variabel dan tipe data (`string`, `int`, `double`, `bool`) dalam Dart.
 
 ---
 
